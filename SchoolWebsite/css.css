@@ -1,0 +1,75 @@
+
+#header{
+                float: left;
+            }
+            #mycarousel{
+                background-color: white;
+                width: 100%;
+                height: 600px;
+            }
+            #mycarousel img{
+                height: 100%;
+                width: 100%;
+                margin-top: 35px;
+            }
+            .carousel-inner p{
+                margin-top: 15px;
+                margin-bottom: 15px;
+                color: white;
+                font-size: 20px;
+            }
+            #contact iframe
+            {
+                width: 100%;
+            }
+            .contact_1 h3
+            {
+                display: inline;
+            }
+            .contact_1 a
+            {
+                text-shadow: none;
+            }
+ 
+            input
+            {
+                background: grey
+            }
+#marqueetext{
+    color: white;
+    text-decoration: none;
+    float: left;
+}
+#marqueelist{
+    list-style: none;
+    height: 200px;
+    width: 1200px;
+}
+#marquee{
+    height: 200px;
+    width: 1400px;
+    margin: 50px;
+    background-color: cadetblue;
+}
+.tdcell{
+    width: 520px;
+    border: 2px solid black;
+}
+*/*school achievments*/
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right
+}
+.movie_text span{
+    color: yellow;
+}
+.list-group{
+    padding: 50px;
+}
